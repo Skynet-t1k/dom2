@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(107, 117, 181);
+    padding: 0px;
+    margin: 0px;
+}
+
+.centrale {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#titolo {
+    width: 40%;
+   
+}
+
+#contenuto {
+    width: 40%;
+   
+}
+
+.bordoArticolo {
+    border: 2px solid red;
+}
